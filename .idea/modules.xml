@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Donguler/Donguler.iml" filepath="$PROJECT_DIR$/Donguler/Donguler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HedefBulmaOyunu/HedefBulmaOyunu.iml" filepath="$PROJECT_DIR$/HedefBulmaOyunu/HedefBulmaOyunu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KosulluIfadeler/KosulluIfadeler.iml" filepath="$PROJECT_DIR$/KosulluIfadeler/KosulluIfadeler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TahminOyunu/TahminOyunu.iml" filepath="$PROJECT_DIR$/TahminOyunu/TahminOyunu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/degiskenler/degiskenler.iml" filepath="$PROJECT_DIR$/degiskenler/degiskenler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaEducaitonProject.iml" filepath="$PROJECT_DIR$/javaEducaitonProject.iml" />
+    </modules>
+  </component>
+</project>
