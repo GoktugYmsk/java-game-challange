@@ -8,4 +8,5 @@ public class Degiskenler {
     System.out.println("Pi: " + pi);
     System.out.println("İsim: " + isim);
   }
+
 }

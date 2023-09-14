@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Donguler/Donguler.iml" filepath="$PROJECT_DIR$/Donguler/Donguler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetSetMethods/GetSetMethods.iml" filepath="$PROJECT_DIR$/GetSetMethods/GetSetMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/HedefBulmaOyunu/HedefBulmaOyunu.iml" filepath="$PROJECT_DIR$/HedefBulmaOyunu/HedefBulmaOyunu.iml" />
       <module fileurl="file://$PROJECT_DIR$/KosulluIfadeler/KosulluIfadeler.iml" filepath="$PROJECT_DIR$/KosulluIfadeler/KosulluIfadeler.iml" />
       <module fileurl="file://$PROJECT_DIR$/TahminOyunu/TahminOyunu.iml" filepath="$PROJECT_DIR$/TahminOyunu/TahminOyunu.iml" />

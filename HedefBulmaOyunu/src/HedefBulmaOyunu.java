@@ -1,4 +1,6 @@
-import java.util.Scanner;
+/*
+*
+* import java.util.Scanner;
 
 public class HedefBulmaOyunu {
   public static void main(String[] args) {
@@ -14,7 +16,7 @@ public class HedefBulmaOyunu {
       System.out.print("Yön Seçin (Yukarı: W, Aşağı: S, Sol: A, Sağ: D, Çıkış: Q): ");
       String yon = scanner.next();
 
-      if (yon.equalsIgnoreCase("Q")) {
+      if (yon.equalsIgnoreCase("Q")) { // `equalsIgnoreCase` büyük küçük harf dikkate alınmaz !
         System.out.println("Oyunu İptal Ettiniz.");
         break;
       }
@@ -42,6 +44,9 @@ public class HedefBulmaOyunu {
 
       oyuncu.hareketEt(deltaX, deltaY);
 
+      System.out.println("Oyuncu Yeni Konumu: X = " + oyuncu.getX() + ", Y = " + oyuncu.getY());
+
+
       if (oyuncu.getX() == hedef.getX() && oyuncu.getY() == hedef.getY()) {
         System.out.println("Tebrikler! Hedefi Buldunuz!");
         break;
@@ -51,3 +56,6 @@ public class HedefBulmaOyunu {
     scanner.close();
   }
 }
+
+*
+* */
