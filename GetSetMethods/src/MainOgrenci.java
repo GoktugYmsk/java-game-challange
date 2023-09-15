@@ -1,4 +1,3 @@
-package GetSetMethods.src;
 
 import java.util.Scanner;
 

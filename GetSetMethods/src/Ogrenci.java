@@ -1,4 +1,3 @@
-package GetSetMethods.src;
 
 public class Ogrenci {
   private String ad;
@@ -12,6 +11,7 @@ public class Ogrenci {
   }
 
   public String getAd() {
+
     return ad;
   }
 
@@ -35,7 +35,7 @@ public class Ogrenci {
     return bolum;
   }
 
-  public void setBolum(String bolum) {
+  public void setBolum(String bolum)   {
     this.bolum = bolum;
   }
 
