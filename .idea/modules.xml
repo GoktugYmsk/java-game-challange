@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/TahminOyunu/TahminOyunu.iml" filepath="$PROJECT_DIR$/TahminOyunu/TahminOyunu.iml" />
       <module fileurl="file://$PROJECT_DIR$/degiskenler/degiskenler.iml" filepath="$PROJECT_DIR$/degiskenler/degiskenler.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaEducaitonProject.iml" filepath="$PROJECT_DIR$/javaEducaitonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superMethodu/siniflarJava/siniflarJava.iml" filepath="$PROJECT_DIR$/superMethodu/siniflarJava/siniflarJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superMethodu/superMethodu.iml" filepath="$PROJECT_DIR$/superMethodu/superMethodu.iml" />
     </modules>
   </component>
 </project>
